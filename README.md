@@ -16,6 +16,6 @@ Largely inspired by [Anon-Guy-yapipenv.zsh](https://github.com/AnonGuy/yapipenv.
 - sets `out` as an alias to deactivate the venv
 
 ## Installation instructions
-- `cd` into `~/.oh-my-zsh/custom/plugin` and `git clone https://github.com/spramij/give-me-pipenv-zsh.git:give-me-pipenv-zsh`
+- `cd` into `~/.oh-my-zsh/custom/plugin` and `git clone https://github.com/spramij/give-me-pipenv-zsh.git`
 - open `~/.zshrc` and add `give-me-pipenv-zsh` to your plugin list
     - might be different if you're not using oh-my-zsh !
