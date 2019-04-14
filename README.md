@@ -16,12 +16,13 @@ Largely inspired by [Anon-Guy-yapipenv.zsh](https://github.com/AnonGuy/yapipenv.
 - sets `out` as an alias to deactivate the venv
 
 ## Installation instructions
+- make sure you have [`pipenv`](https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv) installed
 - `cd` into `~/.oh-my-zsh/custom/plugin` and `git clone https://github.com/spramij/give-me-pipenv-zsh.git`
 - open `~/.zshrc` and add `give-me-pipenv-zsh` to your plugin list
     - might be different if you're not using oh-my-zsh !
 
 ## Extras
-- [install `pipenv`](https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv) and [`pipes`](https://pipenv-pipes.readthedocs.io/en/latest/installation.html) on your system
+- [install `pipes`](https://pipenv-pipes.readthedocs.io/en/latest/installation.html) on your system
 - install [`fzf`](https://github.com/junegunn/fzf) and [`fd`](https://github.com/sharkdp/fd)
 - activate the `fzf` plugin for ZSH (just add it to the list of plugins in `.zshrc`)
 - add the following to `zshrc`:
